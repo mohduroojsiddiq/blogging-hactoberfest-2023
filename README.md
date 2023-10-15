@@ -51,6 +51,7 @@ This repository contains a curated list of programming topics tailored for colle
 14. [Software Engineering Best Practices](#14-software-engineering-best-practices)
 15. [Advanced Topics in Programming Languages](#15-advanced-topics-in-programming-languages)
 16. [Blockchain and Smart Contract Development](#16-blockchain-and-smart-contract-development)
+17. [Microservices Design Patterns](#17-microservices-design-patterns)
 
 ---
 
@@ -118,6 +119,8 @@ Delve into advanced topics in a specific programming language, such as metaprogr
 
 Explore blockchain technology, smart contracts, and development platforms like Ethereum, including creating and deploying smart contracts.
 
+### 17. Microservices Design Patterns
 
+Discuss the top microservices design patterns, one must follow to build a successful microservices.
 
 
